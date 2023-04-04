@@ -1,0 +1,54 @@
+.logo {
+    width: 186px;
+    height: 58px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 0%;
+}
+
+body {
+    background-image: url("img/bgnormal.png");
+}
+
+header1 {
+    width: 1210px;
+    height: 156px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+h1 {
+    width: 672px;
+    height: 168px;
+    font-family: 'Graphik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 74px;
+    line-height: 84px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+h4 {
+    width: 766px;
+    height: 80px;
+    color: #FFFFFF;
+    font-family: 'Graphik', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
